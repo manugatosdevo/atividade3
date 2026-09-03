@@ -9,15 +9,14 @@ body{
   display: flex;
   justify-content: center; 
   align-items: center;     
-  height: 400px; 
-  width: 400px;
-  padding: 40px;
+  min-height: 100vh;  
+  margin: 0;
+  padding: 20px;
   border:  dotted 10px white;
   background-color: white;
   background-image: url(https://i.pinimg.com/736x/ba/38/40/ba3840991bf5605db3efb2a08a21dddf.jpg);
   background-size: cover;
   background-position: 50%;
-  padding: 10px;
 }
 form {
   padding: 30px;
